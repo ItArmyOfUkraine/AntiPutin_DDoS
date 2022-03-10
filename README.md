@@ -12,6 +12,9 @@ Important! The file targets.json should be in the same folder with antiputin.exe
 
 Ребята, мы наконец подготовили систему централизованного DDoS! Программа сама подключается к серверам управления, конфиг подключения к серверам управления лежит в архиве с программой. Антивирус ругаться не должен. По всем проблемам и вопросам пишите в личку.
 
+Для тих хто на Linux, написали на Go. Putin_huilo_DDoS_Go.zip
+————————————————————
+For those who are on Linux, they wrote on Go. Putin_huilo_DDoS_Go.zip
 
 
 army_of_ukraine@protonmail.com 
